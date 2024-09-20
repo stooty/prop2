@@ -1,2 +1,3 @@
 [2024-09-20 13:54:17] File upload failed: profile.png
 [2024-09-20 13:54:17] File upload failed: job.png
+[2024-09-20 13:58:30] Database operation failed: SQLSTATE[HY000]: General error: 1 no such table: uploads
