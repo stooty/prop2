@@ -1,4 +1,6 @@
 <?php
+file_put_contents('debug.log', print_r($_FILES, true) . "\n", FILE_APPEND);
+file_put_contents('debug.log', print_r($_POST, true) . "\n", FILE_APPEND);
 header('Content-Type: application/json');
 error_reporting(E_ALL);
 ini_set('display_errors', 0);

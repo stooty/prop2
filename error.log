@@ -1,3 +1,12 @@
 [2024-09-20 13:54:17] File upload failed: profile.png
 [2024-09-20 13:54:17] File upload failed: job.png
 [2024-09-20 13:58:30] Database operation failed: SQLSTATE[HY000]: General error: 1 no such table: uploads
+[2024-09-20 14:26:07] Database operation failed: SQLSTATE[HY000]: General error: 1 no such table: uploads
+[2024-09-20 17:03:11] Database operation failed: SQLSTATE[HY000]: General error: 1 no such table: uploads
+[2024-09-20 17:14:54] Database operation failed: SQLSTATE[HY000]: General error: 1 no such table: uploads
+[2024-09-20 17:21:04] Database operation failed: SQLSTATE[HY000]: General error: 1 no such table: uploads
+[2024-09-20 17:44:59] Database operation failed: SQLSTATE[HY000]: General error: 1 no such table: uploads
+[2024-09-20 17:47:18] Database operation failed: SQLSTATE[HY000]: General error: 1 no such table: uploads
+[2024-09-20 17:49:16] Database operation failed: SQLSTATE[HY000]: General error: 1 no such table: uploads
+[2024-09-20 17:55:21] Database operation failed: SQLSTATE[HY000]: General error: 1 no such table: uploads
+[2024-09-20 17:56:07] Database operation failed: SQLSTATE[HY000]: General error: 1 no such table: uploads

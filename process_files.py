@@ -29,10 +29,7 @@ def generate_proposal(resume_file, job_description_file):
             {"type": "image", "source": {"type": "base64", "media_type": "image/png", "data": job_description_file}},
         ]},
         {"role": "assistant", "content": "I've successfully received and processed both the resume and job description files. I'll now extract the text from these files and create a compelling proposal based on the information."},
-        {"role": "human", "content": "Great! Now that you have extracted the text from both files, please create a compelling proposal for the freelancer to send to the employer. The proposal should:
-1. Be attention-grabbing and concise
-2. Highlight how the freelancer's experience and skills match the job requirements
-3. Include a bullet point list of steps the freelancer will take to complete the job"},
+        {"role": "human", "content": "Great! Now that you have extracted the text from both files, please create a compelling proposal for the freelancer to send to the employer. The proposal should: 1. Be attention-grabbing and concise 2. Highlight how the freelancer's experience and skills match the job requirements 3. Include a bullet point list of steps the freelancer will take to complete the job"},
     ]
 
     response = client.messages.create(
